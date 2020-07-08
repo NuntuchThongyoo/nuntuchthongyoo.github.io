@@ -1,44 +1,111 @@
-// 202007080944
-// https://nuntuchthongyoo.github.io/boonsiri/json/test.json
+// // 202007080944
+// // https://nuntuchthongyoo.github.io/boonsiri/json/test.json
+
+// {
+//   "page": 1,
+//   "per_page": 2,
+//   "total": 2,
+//   "total_pages": 1,
+//   "data": [
+//     {
+//       "id": 10,
+//       "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/boonsiriferry-booking-bus-and-ferry-to-koh-kood-koh-mak-koh-chang15804639558573.jpg",
+//       "header": "Happy new year 2020",
+//       "detail": "Thank u for being part of our journey in 2019.\n\nMay this year 2020 will bring us all abundance blessings and let us be again to be a part of your new journey!!!\n\nHave a prosperous new year everyone!!!\n\n#boonsiriteam\n#goodbye2019\n#hello2020",
+//       "date": "January 30,2020 16:42"
+//     },
+//        {
+//       "id": 11,
+//       "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/boonsiriferry-booking-bus-and-ferry-to-koh-kood-koh-mak-koh-chang15804638483823.jpg",
+//       "header": "สวัสดีปีใหม่ 2563",
+//       "detail": "มาแล้วววว! Line Official Account ของบุญศิริเฟอร์รี่ จำกัด\nสำหรับท่านใดที่สนใจสามารถติดต่อสอบถามข้อมูลการเดินทาง\nไปเกาะกูด เกาะหมาก เกาะช้าง สอบถามแผนที่\nสามารถติดต่อ และจองเรือได้ที่\n\nLine ID. @boonsiriferry\nhttps://lin.ee/2LwjoDu\nหรือสแกน QR Code ก็ได้\n\nพร้อมรับข่าวสารอัพเดตกิจกรรมต่างๆ ที่น่าสนใจ\nแบบ Exclusive ได้ที่ Line Official Account ค่ะ\n\nพบกันนะคะ",
+//       "date": "January 30,2020 16:42"
+//     },
+//     //     {
+//     //   "id": 10,
+//     //   "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/",
+//     //   "header": "สวัสดีปีใหม่ 2563",
+//     //   "detail": "มาแล้วววว! Line Official Account ของบุญศิริเฟอร์รี่ จำกัด\nสำหรับท่านใดที่สนใจสามารถติดต่อสอบถามข้อมูลการเดินทาง\nไปเกาะกูด เกาะหมาก เกาะช้าง สอบถามแผนที่\nสามารถติดต่อ และจองเรือได้ที่\n\nLine ID. @boonsiriferry\nhttps://lin.ee/2LwjoDu\nหรือสแกน QR Code ก็ได้\n\nพร้อมรับข่าวสารอัพเดตกิจกรรมต่างๆ ที่น่าสนใจ\nแบบ Exclusive ได้ที่ Line Official Account ค่ะ\n\nพบกันนะคะ",
+//     //   "date": "January 30,2020 16:42"
+//     // },
+//     //     {
+//     //   "id": 10,
+//     //   "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/",
+//     //   "header": "สวัสดีปีใหม่ 2563",
+//     //   "detail": "มาแล้วววว! Line Official Account ของบุญศิริเฟอร์รี่ จำกัด\nสำหรับท่านใดที่สนใจสามารถติดต่อสอบถามข้อมูลการเดินทาง\nไปเกาะกูด เกาะหมาก เกาะช้าง สอบถามแผนที่\nสามารถติดต่อ และจองเรือได้ที่\n\nLine ID. @boonsiriferry\nhttps://lin.ee/2LwjoDu\nหรือสแกน QR Code ก็ได้\n\nพร้อมรับข่าวสารอัพเดตกิจกรรมต่างๆ ที่น่าสนใจ\nแบบ Exclusive ได้ที่ Line Official Account ค่ะ\n\nพบกันนะคะ",
+//     //   "date": "January 30,2020 16:42"
+//     // },
+//   ],
+//   // "ad": {
+//   //   "company": "StatusCode Weekly",
+//   //   "url": "http://statuscode.org/",
+//   //   "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+//   // }
+// }
+
+
+
+
+
+
+
+
+
+// 20200708105424
+// https://reqres.in/api/users?page=2
 
 {
-  "page": 1,
-  "per_page": 2,
-  "total": 2,
-  "total_pages": 1,
+  "page": 2,
+  "per_page": 6,
+  "total": 12,
+  "total_pages": 2,
   "data": [
     {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg"
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg"
+    },
+    {
       "id": 10,
-      "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/boonsiriferry-booking-bus-and-ferry-to-koh-kood-koh-mak-koh-chang15804639558573.jpg",
-      "header": "Happy new year 2020",
-      "detail": "Thank u for being part of our journey in 2019.\n\nMay this year 2020 will bring us all abundance blessings and let us be again to be a part of your new journey!!!\n\nHave a prosperous new year everyone!!!\n\n#boonsiriteam\n#goodbye2019\n#hello2020",
-      "date": "January 30,2020 16:42"
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"
     },
-       {
+    {
       "id": 11,
-      "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/boonsiriferry-booking-bus-and-ferry-to-koh-kood-koh-mak-koh-chang15804638483823.jpg",
-      "header": "สวัสดีปีใหม่ 2563",
-      "detail": "มาแล้วววว! Line Official Account ของบุญศิริเฟอร์รี่ จำกัด\nสำหรับท่านใดที่สนใจสามารถติดต่อสอบถามข้อมูลการเดินทาง\nไปเกาะกูด เกาะหมาก เกาะช้าง สอบถามแผนที่\nสามารถติดต่อ และจองเรือได้ที่\n\nLine ID. @boonsiriferry\nhttps://lin.ee/2LwjoDu\nหรือสแกน QR Code ก็ได้\n\nพร้อมรับข่าวสารอัพเดตกิจกรรมต่างๆ ที่น่าสนใจ\nแบบ Exclusive ได้ที่ Line Official Account ค่ะ\n\nพบกันนะคะ",
-      "date": "January 30,2020 16:42"
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg"
     },
-    //     {
-    //   "id": 10,
-    //   "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/",
-    //   "header": "สวัสดีปีใหม่ 2563",
-    //   "detail": "มาแล้วววว! Line Official Account ของบุญศิริเฟอร์รี่ จำกัด\nสำหรับท่านใดที่สนใจสามารถติดต่อสอบถามข้อมูลการเดินทาง\nไปเกาะกูด เกาะหมาก เกาะช้าง สอบถามแผนที่\nสามารถติดต่อ และจองเรือได้ที่\n\nLine ID. @boonsiriferry\nhttps://lin.ee/2LwjoDu\nหรือสแกน QR Code ก็ได้\n\nพร้อมรับข่าวสารอัพเดตกิจกรรมต่างๆ ที่น่าสนใจ\nแบบ Exclusive ได้ที่ Line Official Account ค่ะ\n\nพบกันนะคะ",
-    //   "date": "January 30,2020 16:42"
-    // },
-    //     {
-    //   "id": 10,
-    //   "image_link": "https://nuntuchthongyoo.github.io/boonsiri/images/",
-    //   "header": "สวัสดีปีใหม่ 2563",
-    //   "detail": "มาแล้วววว! Line Official Account ของบุญศิริเฟอร์รี่ จำกัด\nสำหรับท่านใดที่สนใจสามารถติดต่อสอบถามข้อมูลการเดินทาง\nไปเกาะกูด เกาะหมาก เกาะช้าง สอบถามแผนที่\nสามารถติดต่อ และจองเรือได้ที่\n\nLine ID. @boonsiriferry\nhttps://lin.ee/2LwjoDu\nหรือสแกน QR Code ก็ได้\n\nพร้อมรับข่าวสารอัพเดตกิจกรรมต่างๆ ที่น่าสนใจ\nแบบ Exclusive ได้ที่ Line Official Account ค่ะ\n\nพบกันนะคะ",
-    //   "date": "January 30,2020 16:42"
-    // },
+    {
+      "id": 12,
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg"
+    }
   ],
-  // "ad": {
-  //   "company": "StatusCode Weekly",
-  //   "url": "http://statuscode.org/",
-  //   "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
-  // }
+  "ad": {
+    "company": "StatusCode Weekly",
+    "url": "http://statuscode.org/",
+    "text": "A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+  }
 }
