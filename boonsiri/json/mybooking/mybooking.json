@@ -37,7 +37,7 @@
       "to_time_back": "11:45",
       "infant_back": "0",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "complete"
+      "Payment_status" : "uncomplete"
     },
     {
       "id": 2,
