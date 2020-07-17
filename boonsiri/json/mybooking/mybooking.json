@@ -37,7 +37,7 @@
       "to_time_back": "11:45",
       "infant_back": "0",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "uncomplete"
+      "Payment_status" : "Uncomplete"
     },
     {
       "id": 2,
@@ -72,7 +72,7 @@
       "to_description_back": "(Ao Slad pier)",
       "to_time_back": "11:45",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "complete"
+      "Payment_status" : "Complete"
     },
     {
       "id": 3,
@@ -107,7 +107,7 @@
       "to_description_back": "(Ao Slad pier)",
       "to_time_back": "11:45",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "complete"
+      "Payment_status" : "Complete"
     },
     {
       "id": 4,
@@ -142,7 +142,7 @@
       "to_description_back": "(Ao Slad pier)",
       "to_time_back": "11:45",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "complete"
+      "Payment_status" : "Complete"
     },
     {
       "id": 5,
@@ -177,7 +177,7 @@
       "to_description_back": "(Ao Slad pier)",
       "to_time_back": "11:45",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "complete"
+      "Payment_status" : "Complete"
     },
         {
       "id": 2,
@@ -212,7 +212,7 @@
       "to_description_back": "(Ao Slad pier)",
       "to_time_back": "11:45",
       "Payment_methods" : "creditcard",
-      "Payment_status" : "complete"
+      "Payment_status" : "Uncomplete"
     }
   ]
 }
